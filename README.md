@@ -10,8 +10,6 @@ https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-linux_x8
 requests
 Pillow
 gunicorn == 20.0.4
-
-#Install required versions
 Flask==2.0.2
 pandas==1.3.3
 numpy
@@ -26,6 +24,7 @@ scikit-learn
 reportlab==3.6.12
 PyMySQL==0.10.0
 qrcode==7.4.2
+
 
 # Usage
 Steps
