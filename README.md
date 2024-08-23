@@ -1,12 +1,12 @@
 # AI- based Pneumonia detection tool and Generation of synthetic X-Ray images for OpenMRS 
 
-# Requiremnets
-numpy.
-pandas.
-Flask
-scikit-learn
-https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+# Requirements
+1. numpy
+2. pandas
+3. Flask
+4. scikit-learn
+5. https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+6. https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
 requests
 Pillow
 gunicorn == 20.0.4
