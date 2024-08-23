@@ -1,8 +1,8 @@
 # AI- based Pneumonia detection tool and Generation of synthetic X-Ray images for OpenMRS 
 
 # Requiremnets
-numpy
-pandas
+numpy.
+pandas.
 Flask
 scikit-learn
 https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
